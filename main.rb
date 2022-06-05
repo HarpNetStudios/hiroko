@@ -21,7 +21,7 @@ bot = Discordrb::Bot.new token: ENV['DISCORD_TOKEN'], intents: [Discordrb::ALL_I
 Main_server_id = ENV['DISCORD_SERVER_ID'].to_i
 Owner_id = ENV['DISCORD_OWNER_ID'].to_i
 
-New_member_role_id = 961023612826054656
+New_member_role_id = 582417876728807424
 
 Carmine_emoji = 732037619483017367
 Hnid_emoji = 961158545020190741
